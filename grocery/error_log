@@ -1,0 +1,282 @@
+[15-Feb-2018 06:28:11 America/Chicago] PHP Warning:  unlink(): http does not allow unlinking in /home1//public_html/playstore/ecom/deleteslider.php on line 23
+[19-Feb-2018 22:32:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1//public_html/testecom/ecom/index.php on line 18
+[22-Dec-2022 06:02:18 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 06:02:18 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:02:27 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:23:28 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:23:37 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:23:43 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:23:46 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:23:57 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 06:23:57 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:29:36 UTC] PHP Notice:  Undefined variable: ok in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/add-cat.php on line 24
+[22-Dec-2022 06:30:27 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 06:30:27 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 06:30:27 UTC] PHP Notice:  Undefined variable: ok in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 85
+[22-Dec-2022 06:31:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[22-Dec-2022 06:31:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[22-Dec-2022 06:31:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[22-Dec-2022 06:31:50 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 06:31:50 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 06:31:51 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 06:31:51 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 06:55:56 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 06:56:29 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 06:56:29 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 09:09:30 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 10:23:12 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 10:23:13 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 10:23:34 UTC] PHP Notice:  Undefined index: email in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteemail.php on line 7
+[22-Dec-2022 10:23:34 UTC] PHP Notice:  Undefined index: name in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteemail.php on line 9
+[22-Dec-2022 10:23:48 UTC] PHP Notice:  Undefined index: email in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteemail.php on line 7
+[22-Dec-2022 10:23:48 UTC] PHP Notice:  Undefined index: name in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteemail.php on line 9
+[22-Dec-2022 10:32:44 UTC] PHP Notice:  Undefined variable: ok in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/add-cat.php on line 24
+[22-Dec-2022 10:46:03 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 10:46:20 UTC] PHP Warning:  copy(uploads/products/1671690627-9.jpg): failed to open stream: No such file or directory in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteproducts.php on line 65
+[22-Dec-2022 10:46:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteproducts.php on line 10
+[22-Dec-2022 10:46:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteproducts.php on line 61
+[22-Dec-2022 10:46:27 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteproducts.php on line 65
+[22-Dec-2022 10:46:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteproducts.php on line 10
+[22-Dec-2022 10:46:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteproducts.php on line 61
+[22-Dec-2022 10:46:32 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/deleteproducts.php on line 65
+[22-Dec-2022 10:46:59 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 10:46:59 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 10:55:18 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 10:55:18 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 10:55:18 UTC] PHP Notice:  Undefined variable: ok in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 85
+[22-Dec-2022 11:09:41 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 11:09:41 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 11:10:25 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 11:10:25 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 14:16:23 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 14:16:23 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 14:16:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 191
+[22-Dec-2022 14:16:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/edit-products.php on line 81
+[22-Dec-2022 14:17:48 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[22-Dec-2022 14:17:48 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[22-Dec-2022 14:18:35 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[22-Dec-2022 14:18:35 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[22-Dec-2022 14:32:08 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 14:32:08 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 14:43:10 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 14:43:10 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 14:53:22 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 14:53:22 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:01:48 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 15:01:48 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:08:16 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 15:08:16 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:15:43 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 15:15:43 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:23:03 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 15:23:03 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:30:52 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 15:30:52 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:39:24 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 15:39:24 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:52:34 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[22-Dec-2022 15:52:34 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[22-Dec-2022 15:58:40 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 15:59:57 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:00:12 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[22-Dec-2022 16:00:12 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 51
+[22-Dec-2022 16:00:27 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:00:53 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[22-Dec-2022 16:00:53 UTC] PHP Warning:  Use of undefined constant Complete - assumed 'Complete' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 83
+[22-Dec-2022 16:00:53 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 92
+[22-Dec-2022 16:01:05 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:01:14 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Dec-2022 16:02:17 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:02:25 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:02:54 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Dec-2022 16:04:48 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:05:09 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:06:14 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:06:17 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 16:06:35 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 16:49:19 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 16:49:19 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 16:49:38 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 16:49:45 UTC] PHP Notice:  Undefined index: image1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 33
+[22-Dec-2022 16:49:45 UTC] PHP Notice:  Undefined index: image2 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 34
+[22-Dec-2022 16:49:45 UTC] PHP Notice:  Undefined index: image3 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 35
+[22-Dec-2022 16:49:45 UTC] PHP Notice:  Undefined index: image4 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 36
+[22-Dec-2022 16:49:45 UTC] PHP Notice:  Undefined index: image5 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 37
+[22-Dec-2022 16:51:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[22-Dec-2022 16:51:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[22-Dec-2022 16:51:41 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 16:51:41 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 16:52:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[22-Dec-2022 16:52:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[22-Dec-2022 16:52:18 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 16:52:18 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 62
+[22-Dec-2022 17:00:01 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 17:00:37 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 17:00:49 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 17:00:49 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 17:01:10 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 17:03:41 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 17:03:41 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 17:03:51 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 17:03:51 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Dec-2022 17:26:27 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Dec-2022 17:26:28 UTC] PHP Notice:  Undefined variable: revnue1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/dashboard.php on line 74
+[22-Dec-2022 17:26:43 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 17:26:43 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 17:28:50 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 17:28:50 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 17:28:59 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[22-Dec-2022 17:28:59 UTC] PHP Warning:  Use of undefined constant Complete - assumed 'Complete' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 83
+[22-Dec-2022 17:28:59 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 92
+[22-Dec-2022 17:29:08 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 17:29:08 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Dec-2022 17:29:11 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Dec-2022 17:29:11 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Dec-2022 17:29:47 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Dec-2022 17:29:47 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Dec-2022 17:29:51 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Dec-2022 17:29:51 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[27-Dec-2022 06:20:40 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[27-Dec-2022 06:22:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[27-Dec-2022 06:22:10 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 137
+[27-Dec-2022 06:22:10 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 137
+[28-Dec-2022 15:30:47 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[28-Dec-2022 15:32:43 UTC] PHP Warning:  unlink(uploads/products/1671723564-1207078_2-amul-masti-buttermilk-spice.webp): No such file or directory in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/productimagedelete.php on line 21
+[28-Dec-2022 15:33:13 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[28-Dec-2022 15:33:13 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[28-Dec-2022 15:33:20 UTC] PHP Notice:  Undefined index: image1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 33
+[28-Dec-2022 15:33:20 UTC] PHP Notice:  Undefined index: image2 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 34
+[28-Dec-2022 15:33:20 UTC] PHP Notice:  Undefined index: image3 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 35
+[28-Dec-2022 15:33:20 UTC] PHP Notice:  Undefined index: image4 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 36
+[28-Dec-2022 15:33:20 UTC] PHP Notice:  Undefined index: image5 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 37
+[29-Dec-2022 07:52:02 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[29-Dec-2022 07:53:22 UTC] PHP Notice:  Undefined index: image1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 33
+[29-Dec-2022 07:53:22 UTC] PHP Notice:  Undefined index: image2 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 34
+[29-Dec-2022 07:53:22 UTC] PHP Notice:  Undefined index: image3 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 35
+[29-Dec-2022 07:53:22 UTC] PHP Notice:  Undefined index: image4 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 36
+[29-Dec-2022 07:53:22 UTC] PHP Notice:  Undefined index: image5 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 37
+[29-Dec-2022 07:54:00 UTC] PHP Notice:  Undefined index: image1 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 33
+[29-Dec-2022 07:54:00 UTC] PHP Notice:  Undefined index: image2 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 34
+[29-Dec-2022 07:54:00 UTC] PHP Notice:  Undefined index: image3 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 35
+[29-Dec-2022 07:54:00 UTC] PHP Notice:  Undefined index: image4 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 36
+[29-Dec-2022 07:54:00 UTC] PHP Notice:  Undefined index: image5 in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/viewproductsdetails.php on line 37
+[11-Mar-2023 11:36:57 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[11-Mar-2023 11:51:41 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 11:51:41 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 11:56:40 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 11:56:40 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:03:50 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:03:50 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:08:56 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:08:56 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:13:47 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:13:47 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:19:29 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:19:29 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:23:28 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:23:28 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:27:05 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:27:05 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:30:38 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:30:38 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:43:32 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:43:32 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[11-Mar-2023 12:46:52 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[11-Mar-2023 12:46:52 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[11-Mar-2023 12:55:15 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 37
+[11-Mar-2023 12:55:15 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/product-process.php on line 58
+[14-Mar-2023 05:19:36 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[14-Mar-2023 05:22:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[14-Mar-2023 05:22:58 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 137
+[14-Mar-2023 05:22:58 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 137
+[14-Mar-2023 05:25:59 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[14-Mar-2023 05:25:59 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[14-Mar-2023 05:26:33 UTC] PHP Notice:  Undefined variable: userCountfb in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/editemail.php on line 42
+[14-Mar-2023 05:26:33 UTC] PHP Notice:  Undefined variable: userCountgoogle in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/editemail.php on line 57
+[14-Mar-2023 05:26:33 UTC] PHP Notice:  Undefined variable: total in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/editemail.php on line 73
+[16-Mar-2023 13:06:53 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[17-Mar-2023 03:20:21 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 01:43:36 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 01:48:53 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[20-Mar-2023 01:48:53 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[20-Mar-2023 01:49:24 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[20-Mar-2023 01:49:24 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[20-Mar-2023 02:15:35 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 02:18:30 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 06:28:06 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 09:20:10 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 14:52:28 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 15:04:56 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[20-Mar-2023 19:15:49 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[21-Mar-2023 03:28:21 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[21-Mar-2023 03:43:50 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:43:50 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 03:45:14 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:45:14 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 03:47:59 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:47:59 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 03:49:01 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:49:01 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 03:49:54 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:49:54 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 03:50:42 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:50:42 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 03:51:51 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:51:51 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 03:52:55 UTC] PHP Notice:  Undefined variable: product_price in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 34
+[21-Mar-2023 03:52:55 UTC] PHP Notice:  Undefined variable: product_quantity in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/update-product.php on line 46
+[21-Mar-2023 05:47:00 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[21-Mar-2023 05:52:45 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[21-Mar-2023 06:58:24 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[21-Mar-2023 06:59:54 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[21-Mar-2023 07:00:14 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[21-Mar-2023 07:00:14 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 51
+[21-Mar-2023 07:00:25 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[21-Mar-2023 07:01:13 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[21-Mar-2023 07:01:13 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[21-Mar-2023 07:04:17 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[21-Mar-2023 07:04:27 UTC] PHP Warning:  A non-numeric value encountered in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[21-Mar-2023 07:04:27 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[21-Mar-2023 07:04:50 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[21-Mar-2023 07:05:05 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[21-Mar-2023 07:05:12 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[21-Mar-2023 07:21:09 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[21-Mar-2023 07:21:16 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[21-Mar-2023 07:21:16 UTC] PHP Warning:  Use of undefined constant Complete - assumed 'Complete' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 83
+[21-Mar-2023 07:21:16 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 92
+[21-Mar-2023 07:21:24 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[21-Mar-2023 07:21:24 UTC] PHP Warning:  Use of undefined constant Complete - assumed 'Complete' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 83
+[21-Mar-2023 07:21:24 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 92
+[21-Mar-2023 07:21:32 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[21-Mar-2023 07:21:32 UTC] PHP Warning:  Use of undefined constant Complete - assumed 'Complete' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 83
+[21-Mar-2023 07:21:32 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 92
+[21-Mar-2023 07:21:50 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[21-Mar-2023 07:21:50 UTC] PHP Warning:  Use of undefined constant Complete - assumed 'Complete' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 83
+[21-Mar-2023 07:21:50 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 92
+[21-Mar-2023 07:22:01 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[21-Mar-2023 07:22:08 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Mar-2023 08:56:27 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Mar-2023 08:59:17 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[22-Mar-2023 08:59:47 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:00:25 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Mar-2023 09:01:08 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:01:50 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/vieworderdetails.php on line 117
+[22-Mar-2023 09:02:08 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:02:13 UTC] PHP Warning:  Use of undefined constant Dispatch - assumed 'Dispatch' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 41
+[22-Mar-2023 09:02:13 UTC] PHP Warning:  Use of undefined constant Complete - assumed 'Complete' (this will throw an Error in a future version of PHP) in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 83
+[22-Mar-2023 09:02:13 UTC] PHP Notice:  Undefined variable: message in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/updateorderdetails.php on line 92
+[22-Mar-2023 09:02:23 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:02:32 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:02:38 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Mar-2023 09:02:50 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:03:00 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:03:08 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/invoice-print.php on line 150
+[22-Mar-2023 09:03:19 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:03:24 UTC] PHP Notice:  Undefined variable: totalPrice in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/orderstatusdetails.php on line 123
+[22-Mar-2023 09:04:14 UTC] PHP Notice:  Undefined variable: userCountfb in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/editemail.php on line 42
+[22-Mar-2023 09:04:14 UTC] PHP Notice:  Undefined variable: userCountgoogle in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/editemail.php on line 57
+[22-Mar-2023 09:04:14 UTC] PHP Notice:  Undefined variable: total in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/editemail.php on line 73
+[12-Apr-2023 17:38:55 UTC] PHP Notice:  Undefined variable: msg in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/index.php on line 79
+[12-Apr-2023 17:40:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 2
+[12-Apr-2023 17:40:44 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 137
+[12-Apr-2023 17:40:44 UTC] PHP Notice:  Undefined variable: success in /home/yzoremts23zq/public_html/grocery/app_dashboard_store/send.php on line 137
